@@ -1,0 +1,15 @@
+{
+  "name": "cloudrun-websockets",
+  "version": "1.0.0",
+  "description": "This repo explains how to create a websocket server using cloud run.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Juan Antonio Estival",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.2"
+  }
+}
